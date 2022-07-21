@@ -6,7 +6,7 @@
 
 - 🔥 Junior Full Stack Developer focused on get my first start at programming 
 
-- 💬 Ask me about **JavaScript, React, MongoDB, Node.JS**
+- 💬 Ask me about **JavaScript, React, MongoDB, Node.js**
 
 - 👯 I’m looking to collaborate on a aggregator team who helps me learn and grow up in my career
 
