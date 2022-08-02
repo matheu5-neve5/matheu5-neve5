@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: I was supposed to be a lawyer 😜
 
-- 🌱 I’m currently learning Python, Flask-SQL, AWS, and improving my learns about React 
+- 🌱 I’m currently learning Python, Flask-SQL, AWS Cloud Computing, and improving my learns about React 
 
 <br>
 
