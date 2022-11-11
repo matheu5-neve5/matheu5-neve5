@@ -6,7 +6,7 @@
 
 - 🔥 Junior Full Stack Developer focused on get my first start at programming 
 
-- 💬 Ask me about **JavaScript, React, MongoDB, Node.js**
+- 💬 Ask me about **JavaScript, Python, MongoDB, Node.js, AWS Cloud Computing**
 
 - 👯 I’m looking to collaborate on a aggregator team who helps me learn and grow up in my career
 
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: I was supposed to be a lawyer 😜
 
-- 🌱 I’m currently learning Python, Flask-SQL, AWS Cloud Computing, and improving my learns about React 
+- 🌱 I’m currently improving my learns about AWS Cloud Computing and Python, my favorites!
 
 <br>
 
