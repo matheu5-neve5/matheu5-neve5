@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheu5-neve5&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Full Stack Developer focused on get my first start at programming 
+- 🔥 Junior Full Stack Developer focused on grow my career at programming 
 
 - 💬 Ask me about **JavaScript, Python, MongoDB, Node.js, AWS Cloud Computing**
 
